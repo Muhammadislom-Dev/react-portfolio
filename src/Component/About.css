@@ -1,0 +1,73 @@
+.page{
+    margin: 10px;
+    padding: 10px;
+    background-color: #212529;
+}
+.page-link{
+    text-decoration: none;
+    color: #949494;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 25px;
+}
+.page-box{
+    text-align: center;
+}
+
+.page-links{
+    padding: 10px;
+    margin: 10px;
+    width: 170px;
+    height: 50px;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 22px;
+    background-color: grey;
+    border-radius: 5px;
+}
+.page-home{
+    padding: 20px;
+    flex-direction: column;
+}
+
+.page-github{
+    padding: 10px;
+    margin: 10px;
+    width: 170px;
+    height: 50px;
+    color: rgb(55, 58, 61);
+    text-decoration: none;
+    font-size: 22px;
+    background-color: yellow;
+    border-radius: 5px;
+}
+
+.page-text{
+    color: aliceblue;
+    font-size: 30px;
+    line-height: 35px;
+    padding: 10px;
+    width: 780px;
+    font-weight: 500;
+}
+.page-name{
+    font-size: 65px;
+    line-height: 65px;
+    color: aliceblue;
+    padding: 10px;
+    font-weight: 700;
+}
+.page-link:hover{
+    color: white;
+    transition: 0.5s;
+}
+.page-img{
+    text-align: center;
+    padding-top: 50px;
+}
+.page-pic{
+    border-radius: 50%;
+    width: 280px;
+    height: 280px;
+    padding: 20px;
+}

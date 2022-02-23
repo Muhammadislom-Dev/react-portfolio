@@ -1,0 +1,46 @@
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.header{
+    margin: 10px;
+    padding: 10px;
+    background-color: #212529;
+}
+
+.header-img{
+    width: 500px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.header-box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.header-name{
+    text-align: center;
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 700;
+    color: white;
+}
+.header-page{
+    text-align: center;
+}
+.header-link{
+    text-decoration: none;
+    color: #949494;
+    font-size: 25px;
+    line-height: 25px;
+    font-weight: 400;
+}
+.header-link:hover{
+    color: white;
+    transition: 0.5s;
+}
